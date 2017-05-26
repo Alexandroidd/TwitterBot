@@ -1,0 +1,24 @@
+{
+  "name": "TwitterBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LifeIsAwesome.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandroidd/TwitterBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexandroidd/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/Alexandroidd/TwitterBot#readme"
+}
